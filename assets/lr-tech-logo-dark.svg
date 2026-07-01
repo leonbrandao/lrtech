@@ -1,0 +1,8 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LR TECH</title>
+  <desc id="desc">Logotipo LR TECH para fundos claros.</desc>
+  <path d="M8 10h12.5v40H8V10Z" fill="#0F172A"/>
+  <path d="M20 10h22.8C51.5 10 57 15.7 57 23.1c0 5.9-3.6 10.8-9.7 12.5L57.6 50H43.1l-9.2-13.4h-8.1V26.1h16.4c2.5 0 4.1-1.3 4.1-3.2 0-2-1.6-3.2-4.1-3.2H20V10Z" fill="#0F172A"/>
+  <path d="M20.2 36.6 34 50H18.9L8 39.3V26.1h12.2v10.5Z" fill="#155EEF"/>
+  <text x="76" y="38" fill="#0F172A" font-family="Manrope, Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.2">LR TECH</text>
+</svg>

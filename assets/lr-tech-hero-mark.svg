@@ -1,0 +1,51 @@
+<svg width="920" height="680" viewBox="0 0 920 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Monograma LR TECH em vidro</title>
+  <desc id="desc">Monograma LR TECH em uma composicao clara com linhas tecnicas.</desc>
+  <g opacity=".65">
+    <path d="M49 483C224 232 366 73 608 41c177-24 275 49 304 113" stroke="#155EEF" stroke-opacity=".24" stroke-width="1.4"/>
+    <path d="M700 646C588 519 452 394 488 229c36-165 197-208 324-165" stroke="#155EEF" stroke-opacity=".2" stroke-width="1.2"/>
+    <path d="M82 622C214 437 388 341 609 382c166 30 263 111 331 210" stroke="#155EEF" stroke-opacity=".16" stroke-width="1.2"/>
+  </g>
+  <g transform="translate(265 74) rotate(16 258 258)">
+    <rect x="18" y="18" width="516" height="516" rx="72" fill="url(#card)" fill-opacity=".72" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="48" y="48" width="456" height="456" rx="54" fill="url(#inner)" fill-opacity=".26"/>
+  </g>
+  <g filter="url(#softShadow)" transform="translate(352 226)">
+    <path d="M0 0h55v218H0V0Z" fill="url(#steel)"/>
+    <path d="M55 0h131.6c52 0 84.8 33 84.8 75.5 0 34-21 62.5-57.2 74.2L274 218h-70.4l-53.5-74.6H99v-55h82.3c16.3 0 27.4-8.1 27.4-20 0-12.6-11.1-20.7-27.4-20.7H55V0Z" fill="url(#steel)"/>
+    <path d="M55.2 143.4 136 218H65.1L0 155.4v-67h55.2v55Z" fill="url(#blueEdge)"/>
+  </g>
+  <circle cx="792" cy="235" r="5" fill="#155EEF" fill-opacity=".22"/>
+  <circle cx="838" cy="396" r="6" fill="#155EEF" fill-opacity=".28"/>
+  <defs>
+    <linearGradient id="card" x1="93" y1="64" x2="494" y2="523" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".86"/>
+      <stop offset=".55" stop-color="#DCE7F7" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#C9D8EF" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="inner" x1="46" y1="48" x2="508" y2="504" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#AFC2DE"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="42" y1="26" x2="528" y2="516" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset=".48" stop-color="#155EEF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity=".12"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="15" y1="4" x2="243" y2="211" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FBFF"/>
+      <stop offset=".28" stop-color="#D9E4F4"/>
+      <stop offset=".55" stop-color="#8FA5C4"/>
+      <stop offset="1" stop-color="#CBD7EA"/>
+    </linearGradient>
+    <linearGradient id="blueEdge" x1="5" y1="85" x2="142" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8D6ED"/>
+      <stop offset=".55" stop-color="#155EEF"/>
+      <stop offset="1" stop-color="#6EA8FF"/>
+    </linearGradient>
+    <filter id="softShadow" x="-44" y="-38" width="362" height="314" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="20" flood-color="#0F172A" flood-opacity=".22"/>
+      <feDropShadow dx="-8" dy="-10" stdDeviation="8" flood-color="#FFFFFF" flood-opacity=".7"/>
+    </filter>
+  </defs>
+</svg>
