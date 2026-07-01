@@ -1,0 +1,16 @@
+<svg width="320" height="92" viewBox="0 0 320 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LR TECH</title>
+  <desc id="desc">Logotipo horizontal LR TECH com slogan solucoes digitais para gestao e automacao.</desc>
+  <path d="M16 15h16v51H16V15Z" fill="url(#blue)"/>
+  <path d="M31 15h30c11 0 18 7.3 18 16.8 0 7.5-4.5 13.6-12.2 16l12.5 18.2H60.4L49.2 49.2H38.5V35.8h21c3.1 0 5.2-1.7 5.2-4.2 0-2.7-2.1-4.3-5.2-4.3H31V15Z" fill="url(#blue)"/>
+  <path d="M31.2 49.2 48.4 66H29.3L16 52.7V35.8h15.2v13.4Z" fill="#155EEF"/>
+  <text x="100" y="43" fill="#F8FAFC" font-family="Manrope, Inter, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="14">TECH</text>
+  <text x="101" y="62" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="600">Solucoes digitais para gestao e automacao</text>
+  <defs>
+    <linearGradient id="blue" x1="16" y1="15" x2="81" y2="66" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".45" stop-color="#155EEF"/>
+      <stop offset="1" stop-color="#0A58FF"/>
+    </linearGradient>
+  </defs>
+</svg>
